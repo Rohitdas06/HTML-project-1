@@ -1,2 +1,2 @@
-# HTML-project-1
+# HTMLproject1
 using only HTML 
